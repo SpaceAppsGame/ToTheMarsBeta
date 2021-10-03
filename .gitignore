@@ -38,3 +38,5 @@ sysinfo.txt
 
 # it's in another repo (too heavy)
 Assets/ScifiFacility
+*.log
+*.log
